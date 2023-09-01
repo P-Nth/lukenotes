@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc56d27a-e65a-493c-a8e5-1e12aad5169c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../PacReact" beforeDir="false" afterPath="$PROJECT_DIR$/../../PacReact" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../VanillaJs_Projects/Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../../VanillaJs_Projects/Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../VanillaJs_Projects/CoinToss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../VanillaJs_Projects/CoinToss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../VanillaJs_Projects/ColorGame" beforeDir="false" afterPath="$PROJECT_DIR$/../../../VanillaJs_Projects/ColorGame" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../VanillaJs_Projects/Dictionary" beforeDir="false" afterPath="$PROJECT_DIR$/../../../VanillaJs_Projects/Dictionary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../VanillaJs_Projects/TODO" beforeDir="false" afterPath="$PROJECT_DIR$/../../../VanillaJs_Projects/TODO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../VanillaJs_Projects/TaxCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../../../VanillaJs_Projects/TaxCalculator" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2UoJgTYltA2iMNDlshve3VAwQla" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/p-nth/Desktop/Projects/JS_Projects/ReactJs_Projects/vlior",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc56d27a-e65a-493c-a8e5-1e12aad5169c" name="Changes" comment="" />
+      <created>1693600110236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693600110236</updated>
+      <workItem from="1693600111323" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
