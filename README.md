@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-A platform for managing notes, projects, todos and journals
-=======
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
