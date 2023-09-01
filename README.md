@@ -42,7 +42,7 @@ For any questions, issues, or assistance, please reach out to our support team a
 
 ## License
 
-LukeNotes is licensed under the [MIT License](LICENSE).
+LukeNotes is licensed under the [Apache License](LICENSE).
 
 ---
 
